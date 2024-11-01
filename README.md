@@ -1,4 +1,4 @@
-# List Anime\
+# List Anime
 ## HomePage
 ![Home](https://github.com/user-attachments/assets/413fcee7-6b0b-4591-b576-d2ed687732ca)
 ## DetailPage
