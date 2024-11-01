@@ -1,7 +1,7 @@
-#List Anime\
-##HomePage
+# List Anime\
+## HomePage
 ![Home](https://github.com/user-attachments/assets/413fcee7-6b0b-4591-b576-d2ed687732ca)
-##DetailPage
+## DetailPage
 ![Detail](https://github.com/user-attachments/assets/67f0666c-0987-4bd8-9933-e2063a20fb2d)
 
 # Getting Started with Create React App
