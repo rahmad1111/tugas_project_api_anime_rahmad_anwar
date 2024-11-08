@@ -1,9 +1,9 @@
-### Cara clone
-## Pertama
+## Cara clone
+#### Pertama
 `ambil link pada menu code` \
-## Kedua
+#### Kedua
 `npm install`
-## Ketiga
+#### Ketiga
 `npm start`
 
 ## List Anime
