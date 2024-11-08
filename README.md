@@ -1,3 +1,11 @@
+### Cara clone
+## Pertama
+`ambil link pada menu code` \
+## Kedua
+`npm install`
+## Ketiga
+`npm start`
+
 ## List Anime
 ### HomePage
 ![Home](https://github.com/user-attachments/assets/413fcee7-6b0b-4591-b576-d2ed687732ca)
